@@ -1,0 +1,2 @@
+# today-oneword-domains
+List of today one word domain names with availability, expiration date, attractiveness, demand score.
