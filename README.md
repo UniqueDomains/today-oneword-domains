@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .today one-word domains from Uniqu
 
 **Public extract:** 7,436 rows · **Live catalog:** 7,436 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/today`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | athletics.today | premium   | $260      | $260          | 69             | 52     | 9      | namecheap                                    |
 | bubble.today    | available | $2.99     | —             | 76             | 36     | 6      | name.com                                     |
 | test.today      | resell    | —         | —             | 72             | 89     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| green.today     | premium   | $260      | $260          | 108            | 45     | 5      | namecheap                                    |
+| green.today     | premium   | $260      | $260          | 108            | 44     | 5      | namecheap                                    |
 | lava.today      | available | $2.99     | —             | 64             | 33     | 4      | name.com                                     |
 | checkout.today  | resell    | —         | —             | 68             | 79     | 9      | Spaceship, Inc.                              |
 | org.today       | premium   | $1,000    | —             | 64             | 43     | 3      | name.com                                     |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
