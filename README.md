@@ -1,10 +1,10 @@
-# Available .TODAY One-Word Domains (9,609)
+# Available .TODAY One-Word Domains (9,986)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C609%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C986%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .today one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,609 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,986 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,609 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,986 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/today`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| gods.today        | available | $2.99     | —             | 72             | 27     | 4      | name.com        |
-| online.today      | resell    | —         | —             | 70             | 62     | 7      | DNSPod, Inc.    |
-| justin.today      | premium   | $123.75   | —             | 58             | 38     | 7      | name.com        |
-| rekt.today        | available | $2.99     | —             | 40             | 24     | 4      | name.com        |
-| form.today        | resell    | —         | —             | 74             | 39     | 4      | Spaceship, Inc. |
-| has.today         | premium   | $123.75   | —             | 60             | 26     | 3      | name.com        |
-| superhero.today   | available | $2.99     | —             | 84             | 23     | 9      | name.com        |
-| dave.today        | resell    | —         | —             | 76             | 38     | 4      | Dynadot Inc     |
-| restaurants.today | premium   | $123.75   | —             | 57             | 21     | 11     | name.com        |
-| webshop.today     | available | $2.99     | —             | 76             | 22     | 8      | name.com        |
-| tokens.today      | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc     |
-| accountants.today | premium   | $118.80   | $118.80       | 50             | 16     | 11     | namesilo        |
-| stadia.today      | available | $2.99     | —             | 66             | 22     | 6      | name.com        |
-| Cats.today        | resell    | —         | —             | 59             | 33     | 4      | Sav.com, LLC    |
-| Phillip.today     | premium   | $138.60   | $138.60       | 70             | 14     | 7      | namecheap       |
-| brothers.today    | available | $2.99     | —             | 60             | 22     | 8      | name.com        |
-| trends.today      | resell    | —         | —             | 60             | 32     | 6      | Name.com, Inc.  |
-| motorsports.today | premium   | $123.75   | —             | 74             | 13     | 11     | name.com        |
-| Alexis.today      | available | $2.99     | —             | 72             | 21     | 6      | name.com        |
-| solutions.today   | resell    | —         | —             | 56             | 31     | 9      | Spaceship, Inc. |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| gods.today         | available | $2.99     | —             | 72             | 27     | 4      | name.com        |
+| online.today       | resell    | —         | —             | 70             | 62     | 7      | DNSPod, Inc.    |
+| has.today          | premium   | $123.75   | —             | 60             | 26     | 3      | name.com        |
+| rekt.today         | available | $2.99     | —             | 40             | 24     | 4      | name.com        |
+| fit.today          | resell    | —         | —             | 88             | 41     | 3      | Spaceship, Inc. |
+| accountants.today  | premium   | $118.80   | $118.80       | 50             | 16     | 11     | namesilo        |
+| superhero.today    | available | $2.99     | —             | 84             | 23     | 9      | name.com        |
+| dave.today         | resell    | —         | —             | 76             | 38     | 4      | Dynadot Inc     |
+| Phillip.today      | premium   | $138.60   | $138.60       | 70             | 14     | 7      | namecheap       |
+| webshop.today      | available | $2.99     | —             | 76             | 22     | 8      | name.com        |
+| tokens.today       | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc     |
+| motorsports.today  | premium   | $123.75   | —             | 74             | 13     | 11     | name.com        |
+| stadia.today       | available | $2.99     | —             | 66             | 22     | 6      | name.com        |
+| Cats.today         | resell    | —         | —             | 59             | 33     | 4      | Sav.com, LLC    |
+| parties.today      | premium   | $250      | —             | 58             | 13     | 7      | name.com        |
+| Alexis.today       | available | $2.99     | —             | 72             | 21     | 6      | name.com        |
+| trends.today       | resell    | —         | —             | 60             | 32     | 6      | Name.com, Inc.  |
+| universities.today | premium   | $250      | —             | 54             | 9      | 12     | name.com        |
+| stores.today       | available | $2.99     | —             | 62             | 20     | 6      | name.com        |
+| velvet.today       | resell    | —         | —             | 80             | 31     | 6      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,609 live domains                               |
+| 1,000-row public sample | 9,986 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
