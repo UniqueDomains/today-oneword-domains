@@ -973,6 +973,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 626186a0-48b4-480d-9728-8ff2fd73dc32,comethrough.today,available,2.99,,78,1,12,name.com,,
 62717c45-4736-4dd8-be83-3582cdd42d66,pitchdark.today,available,2.99,,55,2,10,name.com,,
 62bfc766-29f5-4167-a6f2-4ec74450d22f,studs.today,available,2.99,,69,7,5,name.com,,
+62cc5e2f-e100-41ed-9d71-2241fd526463,beg.today,resell,,,60,13,3,"GoDaddy.com, LLC",19/10/2024 17:04,19/10/2026 17:04
 62dd3c20-8851-499f-8248-3c9c103386a7,makethegrade.today,available,2.99,,70,3,14,name.com,,
 62eca78b-892b-429c-8f52-688e8a15f060,slowed.today,available,2.99,,48,3,6,name.com,,
 62f15671-e157-4d64-b0f5-e66cc2a679e2,twentythree.today,available,2.99,,65,7,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6536f747-aa49-4137-9e47-3842f7026910,getwet.today,available,2.99,,74,5,7,name.com,,
 653eed4a-7fb0-4a31-939c-9b28531f1601,salts.today,available,2.99,,56,7,5,name.com,,
 655191f2-5749-4078-bb07-292f693a24be,beridof.today,available,2.99,,46,1,9,name.com,,
-658fbb87-755f-4274-ba46-4b21c5434e9d,intheact.today,available,2.99,,52,1,10,name.com,,
