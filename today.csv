@@ -534,6 +534,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3620ae6c-e4a6-4e7a-9b17-1f52856dfc1d,veterans.today,resell,,,56,23,8,Porkbun LLC,06/06/2025 20:20,06/06/2026 20:20
 3625e5a5-fd4a-4fbe-9bb4-850149192b91,carols.today,available,2.99,,56,7,6,name.com,,
 36348aa3-64fb-4ee2-bb05-8b352f3d6218,letthedevilout.today,available,2.99,,62,1,17,name.com,,
+363f3940-369c-4d59-8434-8266f44fad71,Ropes.today,premium,,,56,9,5,,,
 36438abb-eaa7-4c0c-8a72-9fee1ff5ea13,hears.today,available,2.99,,48,4,5,name.com,,
 3692034a-2c29-4adf-b2ac-00dcb208ba27,IsleofSheppey.today,available,38.98,,52,1,15,namecheap,,
 3695e3c5-83df-45d8-a679-9fe98c4a8df3,herbalmedicines.today,available,2.99,,52,2,16,name.com,,
@@ -611,6 +612,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3e786e16-785b-475c-99dd-a2910c363506,stirup.today,available,2.99,,82,3,7,name.com,,
 3e944a1a-ba72-4734-a0c4-f1d6c8732f28,sqin.today,available,2.99,,72,3,5,name.com,,
 3ecf0047-fed8-4974-bbcd-510e4c6e3c2a,ohmygoodness.today,available,2.99,,50,4,14,name.com,,
+3eebc926-e5c9-47f8-bb83-35f013a72c9b,freespirit.today,available,2.99,,86,16,11,name.com,,
 3f17651a-af17-4ac9-9b95-6990d602b72f,executivecontrol.today,available,2.99,,64,1,17,name.com,,
 3f2476b9-f420-4bff-a991-9777957af602,tokens.today,resell,,,51,36,6,Dynadot Inc,14/02/2018 13:01,14/02/2027 13:01
 3f296e41-a2b7-40d7-a731-6c054f6f96dc,textures.today,available,2.99,,50,9,8,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 64e47c04-bbba-4a17-9b68-520dd85581f2,amplifies.today,available,2.99,,56,2,9,name.com,,
 64e8cbf2-7a7c-4c26-8373-6999a82b7476,fonts.today,available,2.99,,58,17,5,name.com,,
 6536f747-aa49-4137-9e47-3842f7026910,getwet.today,available,2.99,,74,5,7,name.com,,
-653eed4a-7fb0-4a31-939c-9b28531f1601,salts.today,available,2.99,,56,7,5,name.com,,
-655191f2-5749-4078-bb07-292f693a24be,beridof.today,available,2.99,,46,1,9,name.com,,
