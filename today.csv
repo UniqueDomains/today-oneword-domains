@@ -192,7 +192,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 145a402f-688f-48f5-b79f-0ebfbec25ed5,stretches.today,available,2.99,,50,2,9,name.com,,
 145d00f1-d634-4cab-b139-aaf014f3b5f4,SaintNicholas.today,available,38.98,,64,4,14,namecheap,,
 14761f92-33d8-4bae-9032-2dd46f54779d,stackup.today,available,2.99,,64,11,8,name.com,,
-14aa6739-5e8e-4de4-a043-bfc83dffe141,changes.today,resell,,,54,22,7,"GoDaddy.com, LLC",12/10/2020 00:40,12/10/2026 00:40
+14aa6739-5e8e-4de4-a043-bfc83dffe141,changes.today,resell,,,54,15,7,"GoDaddy.com, LLC",12/10/2020 00:40,12/10/2026 00:40
 14bf5ac0-e44d-4ae6-978e-4cfa80c9c97c,myson.today,available,2.99,,80,5,6,name.com,,
 14df00c6-066b-4b44-907b-7c4314ffd21b,commonsalt.today,available,2.99,,72,1,11,name.com,,
 14f2d714-49d9-422d-a048-798f4601fc83,cents.today,available,2.99,,56,9,5,name.com,,
@@ -751,6 +751,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4c049222-f9a7-4623-8333-20e4e8015dd2,Ikidyounot.today,available,38.98,,50,2,13,namecheap,,
 4c205bf9-293d-43ea-8aac-0038f70c20b4,getthehangof.today,available,2.99,,71,1,15,name.com,,
 4c607516-3423-4414-803e-f25e95bec363,makeupremover.today,available,2.99,,70,2,14,name.com,,
+4c73e1ae-43ae-471f-a319-375a2f66fe6c,seized.today,available,2.99,,54,5,6,name.com,,
 4c84dd48-7a90-4e2d-9b8a-c1c2f68abc46,macaronicheese.today,available,2.99,,72,1,15,name.com,,
 4cc2d1a8-46bd-47ed-ba5f-2549e4f573cc,jollyalong.today,available,2.99,,82,1,11,name.com,,
 4ccb7acd-0f5c-4170-957a-cc86ca2208eb,manyhappyreturns.today,available,2.99,,46,2,18,name.com,,
@@ -839,7 +840,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53e7d45b-38b4-460c-8909-d63efbe499af,justifications.today,available,2.99,,44,1,14,name.com,,
 540cdba2-4d4b-4b67-aa63-79e9aa0d3129,successors.today,available,2.99,,55,3,10,name.com,,
 54148fc5-7da6-42f3-877f-ab018ea040e5,sides.today,available,2.99,,54,12,5,name.com,,
-541774f6-7a1e-4bf7-b81d-f92f6ab65589,thinkagain.today,available,2.99,,56,12,11,name.com,,
+541774f6-7a1e-4bf7-b81d-f92f6ab65589,thinkagain.today,available,2.99,,56,6,11,name.com,,
 543c7eb3-d1bc-4bb6-9f90-911ad03f9f66,gettingsome.today,available,2.99,,54,1,12,name.com,,
 544328a4-8564-42e0-b6f5-930b8d16e5d5,signout.today,available,2.99,,75,4,8,name.com,,
 5453195f-6bdc-4ef6-b791-4f42470fc7b3,rakes.today,available,2.99,,50,3,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6450746b-ba59-46f6-b6a5-bd721649b046,adjectives.today,available,2.99,,50,3,10,name.com,,
 64521a96-ecf6-4df6-9124-6909899a588e,wanttobet.today,available,2.99,,62,1,11,name.com,,
 6452bf97-534c-4bae-be6f-bc19e116650f,wives.today,available,2.99,,62,6,5,name.com,,
-64e47c04-bbba-4a17-9b68-520dd85581f2,amplifies.today,available,2.99,,56,2,9,name.com,,
