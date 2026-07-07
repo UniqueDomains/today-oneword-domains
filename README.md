@@ -1,10 +1,10 @@
-# Available .TODAY One-Word Domains (10,024)
+# Available .TODAY One-Word Domains (10,025)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C024%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C025%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .today one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,024 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,025 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,024 domains · **Median ask:** $7.60 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,025 domains · **Median ask:** $8.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/today`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/today`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TODAY one-word domain
 
 ### Files
 
-- `today.csv` — public CSV extract (1,000 rows)
-- `today.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `today.csv`, public CSV extract (1,000 rows)
+- `today.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| gods.today         | available | $2.99     | —             | 72             | 27     | 4      | name.com        |
-| online.today       | resell    | —         | —             | 70             | 62     | 7      | DNSPod, Inc.    |
-| has.today          | premium   | $123.75   | —             | 60             | 26     | 3      | name.com        |
-| rekt.today         | available | $2.99     | —             | 40             | 24     | 4      | name.com        |
-| fit.today          | resell    | —         | —             | 88             | 41     | 3      | Spaceship, Inc. |
-| accountants.today  | premium   | $118.80   | $118.80       | 50             | 16     | 11     | namesilo        |
-| superhero.today    | available | $2.99     | —             | 84             | 23     | 9      | name.com        |
-| dave.today         | resell    | —         | —             | 76             | 38     | 4      | Dynadot Inc     |
-| Phillip.today      | premium   | $138.60   | $138.60       | 70             | 14     | 7      | namecheap       |
-| webshop.today      | available | $2.99     | —             | 76             | 22     | 8      | name.com        |
-| tokens.today       | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc     |
-| motorsports.today  | premium   | $123.75   | —             | 74             | 13     | 11     | name.com        |
-| stadia.today       | available | $2.99     | —             | 66             | 22     | 6      | name.com        |
-| Cats.today         | resell    | —         | —             | 59             | 33     | 4      | Sav.com, LLC    |
-| parties.today      | premium   | $250      | —             | 58             | 13     | 7      | name.com        |
-| Alexis.today       | available | $2.99     | —             | 72             | 21     | 6      | name.com        |
-| trends.today       | resell    | —         | —             | 60             | 32     | 6      | Name.com, Inc.  |
-| universities.today | premium   | $250      | —             | 54             | 9      | 12     | name.com        |
-| stores.today       | available | $2.99     | —             | 62             | 20     | 6      | name.com        |
-| velvet.today       | resell    | —         | —             | 80             | 31     | 6      | Spaceship, Inc. |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| nun.today      | available | $2.99     | —             | medium         | low    | 3      | name.com                                                  |
+| barbeque.today | resell    | $2.99     | —             | high           | low    | 8      | Sav.com, LLC                                              |
+| but.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| sep.today      | available | $2.99     | —             | high           | low    | 3      | name.com                                                  |
+| Ava.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| lie.today      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| shy.today      | available | $2.99     | —             | medium         | low    | 3      | name.com                                                  |
+| dew.today      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
+| odd.today      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                                                  |
+| xxv.today      | available | $2.99     | $41.99        | medium         | low    | 3      | name.com                                                  |
+| ink.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| pal.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| barn.today     | available | $2.99     | —             | high           | low    | 4      | name.com                                                  |
+| joy.today      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| pen.today      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| bead.today     | available | $2.99     | —             | high           | low    | 4      | name.com                                                  |
+| mix.today      | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| sad.today      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                                                  |
+| clue.today     | available | $2.99     | —             | high           | low    | 4      | name.com                                                  |
+| suv.today      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,024 live domains                        |
+| 1,000-row public sample | 10,025 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up entirely of one-word domains on the .today extension. Examples like model.today, english.today, adios.today, clay.today, and encounter.today show the range: dictionary words, descriptive terms, and broader brandable options. For founders, the main question is whether the word feels memorable and clear with “today” as part of the brand. For investors, the key test is whether the ask leaves room relative to likely end-user appeal. Because the median ask is 7.61, it helps to compare names by word strength, commercial relevance, and how naturally the term fits a time-sensitive or current-use message.
+This set covers one-word .today domain names — single-word, everyday terms rather than compound brand strings. Pricing sits near a median ask of $8.83, keeping the barrier to entry low for anyone comparing short, ownable names. Names range from plain nouns to playful phrases, giving founders quick shortlist options and investors a wide, low-cost TLD to scan for coverage.
 
-- Compare the word first; .today works best with timely meaning
-- Use ask price as a first filter; median ask is 7.61
-- Prefer clear, spellable words like model.today or clay.today
-- Check for trademark risk in specific brand-like terms
+- 10,025 one-word .today domain names in this selection
+- Median ask near $8.83 — low barrier to entry
+- Everyday nouns and phrases: criteria, flaxseed, keepfit
+- Updated daily to reflect newly available .today names
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
