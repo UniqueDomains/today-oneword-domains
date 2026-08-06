@@ -1,10 +1,10 @@
-# Available .TODAY One-Word Domains (10,025)
+# Available .TODAY One-Word Domains (10,051)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C025%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C051%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .today one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,025 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,051 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,025 domains · **Median ask:** $8.83 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,051 domains · **Median ask:** $8.05 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/today`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| nun.today      | available | $2.99     | —             | medium         | low    | 3      | name.com                                                  |
+| ilx.today      | available | $2.98     | $38.98        | low            | low    | 3      | namecheap                                                 |
 | barbeque.today | resell    | $2.99     | —             | high           | low    | 8      | Sav.com, LLC                                              |
 | but.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| sep.today      | available | $2.99     | —             | high           | low    | 3      | name.com                                                  |
+| nun.today      | available | $2.99     | —             | medium         | low    | 3      | name.com                                                  |
 | Ava.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
 | lie.today      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
-| shy.today      | available | $2.99     | —             | medium         | low    | 3      | name.com                                                  |
+| sep.today      | available | $2.99     | —             | high           | low    | 3      | name.com                                                  |
 | dew.today      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
 | odd.today      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                                                  |
-| xxv.today      | available | $2.99     | $41.99        | medium         | low    | 3      | name.com                                                  |
+| shy.today      | available | $2.99     | —             | medium         | low    | 3      | name.com                                                  |
 | ink.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
 | pal.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| barn.today     | available | $2.99     | —             | high           | low    | 4      | name.com                                                  |
+| xxv.today      | available | $2.99     | $41.99        | medium         | low    | 3      | name.com                                                  |
 | joy.today      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
 | pen.today      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
-| bead.today     | available | $2.99     | —             | high           | low    | 4      | name.com                                                  |
+| aery.today     | available | $2.98     | $38.98        | low            | low    | 4      | namecheap                                                 |
 | mix.today      | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | sad.today      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                                                  |
-| clue.today     | available | $2.99     | —             | high           | low    | 4      | name.com                                                  |
+| barn.today     | available | $2.99     | —             | high           | low    | 4      | name.com                                                  |
 | suv.today      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,025 live domains                        |
+| 1,000-row public sample | 10,051 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
