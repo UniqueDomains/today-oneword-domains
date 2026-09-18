@@ -71,19 +71,19 @@ print(df.head())
 | Ava.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
 | lie.today      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
 | sep.today      | available | $2.99     | —             | high           | low    | 3      | name.com                                                  |
-| dew.today      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
+| ink.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
 | odd.today      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                                                  |
 | shy.today      | available | $2.99     | —             | medium         | low    | 3      | name.com                                                  |
-| ink.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| joy.today      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
 | pal.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
 | xxv.today      | available | $2.99     | $41.99        | medium         | low    | 3      | name.com                                                  |
-| joy.today      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| mix.today      | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | pen.today      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
 | aery.today     | available | $2.98     | $38.98        | low            | low    | 4      | namecheap                                                 |
-| mix.today      | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| suv.today      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                              |
 | sad.today      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                                                  |
 | barn.today     | available | $2.99     | —             | high           | low    | 4      | name.com                                                  |
-| suv.today      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                              |
+| bare.today     | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 6                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
