@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .today one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,564 domains · **Median ask:** $5.66 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/today`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| fancy.today    | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 9                             |
-| ilx.today      | available | $2.98     | $38.98        | low            | low    | 3      | namecheap                                    |
-| allied.today   | resell    | $2.99     | $41.99        | medium         | low    | 6      | name.com                                     |
-| but.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| nun.today      | available | $2.99     | —             | medium         | low    | 3      | name.com                                     |
-| barbeque.today | resell    | $2.99     | —             | high           | low    | 8      | Sav.com, LLC                                 |
-| lie.today      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                     |
-| sep.today      | available | $2.99     | —             | high           | low    | 3      | name.com                                     |
-| art.today      | resell    | —         | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| odd.today      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                                     |
-| shy.today      | available | $2.99     | —             | medium         | low    | 3      | name.com                                     |
-| ava.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
-| pal.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| xxv.today      | available | $2.98     | $38.98        | low            | low    | 3      | namecheap                                    |
-| ink.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
-| pen.today      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                     |
-| aery.today     | available | $2.98     | $38.98        | low            | low    | 4      | namecheap                                    |
-| joy.today      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                              |
-| sad.today      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                                     |
-| barn.today     | available | $2.99     | —             | high           | low    | 4      | name.com                                     |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| err.today      | available | $2.99     | —             | high           | low    | 3      | name.com                                                  |
+| barbeque.today | resell    | $2.99     | —             | high           | low    | 8      | Sav.com, LLC                                              |
+| but.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| ilx.today      | available | $2.98     | $38.98        | medium         | low    | 3      | namecheap                                                 |
+| ava.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| few.today      | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
+| nun.today      | available | $2.99     | —             | high           | low    | 3      | name.com                                                  |
+| bra.today      | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| lie.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| sep.today      | available | $2.99     | —             | high           | low    | 3      | name.com                                                  |
+| ink.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| pal.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| shy.today      | available | $2.99     | —             | high           | low    | 3      | name.com                                                  |
+| joy.today      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| pen.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| ache.today     | available | $2.98     | $38.98        | medium         | low    | 4      | namecheap                                                 |
+| rag.today      | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| tin.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| aery.today     | available | $2.98     | $38.98        | high           | low    | 4      | namecheap                                                 |
+| see.today      | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
