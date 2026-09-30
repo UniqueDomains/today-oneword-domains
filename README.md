@@ -1,10 +1,10 @@
-# Available .TODAY One-Word Domains (20,946)
+# Available .TODAY One-Word Domains (22,576)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C946%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C576%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .today one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,946 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,576 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,946 domains · **Median ask:** $8.83 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 22,576 domains · **Median ask:** $8.89 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/today`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | cca.today      | available | $22.20    | $22.20        | high           | low    | 3      | cloudflare       |
-| figure.today   | resell    | $2.99     | —             | high           | low    | 6      | Sav.com, LLC     |
+| watt.today     | resell    | $2.99     | —             | high           | low    | 4      | name.com         |
 | add.today      | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship        |
 | dye.today      | available | $5.99     | $28.49        | high           | low    | 3      | namesilo         |
-| referred.today | resell    | $2.99     | —             | medium         | low    | 8      | Porkbun LLC      |
+| figure.today   | resell    | $2.99     | —             | high           | low    | 6      | Sav.com, LLC     |
 | ape.today      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| gag.today      | available | $2.99     | —             | high           | low    | 3      | name.com         |
-| ftc.today      | resell    | —         | —             | medium         | low    | 3      | —                |
+| eia.today      | available | $5.99     | $28.49        | high           | low    | 3      | namesilo         |
+| referred.today | resell    | $2.99     | —             | medium         | low    | 8      | Porkbun LLC      |
 | arab.today     | premium   | $854      | $854          | high           | low    | 4      | namesilo         |
+| fbs.today      | available | $5.99     | $28.49        | high           | low    | 3      | namesilo         |
+| ftc.today      | resell    | —         | —             | high           | low    | 3      | —                |
+| lisa.today     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
 | het.today      | available | $2.98     | $38.98        | medium         | low    | 3      | namecheap        |
 | rna.today      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
-| lisa.today     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
+| janet.today    | premium   | $38.94    | $38.94        | high           | low    | 5      | namesilo         |
 | jul.today      | available | $22.20    | $22.20        | medium         | low    | 3      | cloudflare       |
 | top.today      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| janet.today    | premium   | $38.94    | $38.94        | high           | low    | 5      | namesilo         |
-| yid.today      | available | $5.99     | $28.49        | medium         | low    | 3      | namesilo         |
-| best.today     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
 | jerry.today    | premium   | $207.20   | $207.20       | high           | low    | 5      | spaceship        |
-| abls.today     | available | $5.99     | $28.49        | medium         | low    | 4      | namesilo         |
-| bond.today     | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.     |
+| ney.today      | available | $2.27     | $22.97        | medium         | low    | 3      | spaceship        |
+| best.today     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,946 live domains                        |
+| 1,000-row public sample | 22,576 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TODAY One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
